@@ -6,10 +6,15 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/yijiakang/
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/yijiak06
 ---
 
-Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?
+
+I’m a business analytics master’s student with a passion for turning healthcare data into actionable insights. 
+
+Over the course of my studies, I’ve developed strong skills in statistical modeling, machine learning, and data visualization, and I’m particularly interested in predictive modeling that can improve patient outcomes and streamline operations. I enjoy digging into messy datasets, asking the right questions, and translating technical findings into clear recommendations for stakeholders. When I’m not coding or analyzing, I volunteer with local health initiatives and stay current on industry trends through journals and conferences. 
+
+My goal is to combine analytical rigor with a deep understanding of healthcare systems to drive smarter, more humane decision‑making. I’m always excited to collaborate on projects that make a real difference.
